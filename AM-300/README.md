@@ -33,3 +33,4 @@ A collection of highly curated DSA questions.
 | Row | Question Name | Question Link |
 | --- | --- | --- |
 | 17 | [017 Single Number](./Bit%20Manipulation/017%20Single%20Number) | [Leetcode Question](https://leetcode.com/problems/single-number/description/) |
+| 18 | [018 Number of 1 Bits](./Bit%20Manipulation/018%20Number%20of%201%20Bits) | [Leetcode Question](https://leetcode.com/problems/number-of-1-bits/description/) |

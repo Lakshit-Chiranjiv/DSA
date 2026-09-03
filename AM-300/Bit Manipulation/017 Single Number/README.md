@@ -1,4 +1,4 @@
-# 136 Single Number
+# 136. Single Number
 
 ## Problem Summary
 Given a non-empty array of integers `nums`, every element appears twice except for one. Find that single one. The solution must run in linear runtime complexity and use only constant extra space.
