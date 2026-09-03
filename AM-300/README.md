@@ -24,3 +24,12 @@ A collection of highly curated DSA questions.
 | 11 | [011 Is Subsequence](./Strings/011%20Is%20Subsequence) | [Leetcode Question](https://leetcode.com/problems/is-subsequence/description/) |
 | 12 | [012 Valid Palindrome](./Strings/012%20Valid%20Palindrome) | [Leetcode Question](https://leetcode.com/problems/valid-palindrome/description/) |
 | 13 | [013 Longest Common Prefix](./Strings/013%20Longest%20Common%20Prefix) | [Leetcode Question](https://leetcode.com/problems/longest-common-prefix/description/) |
+| 14 | [014 Zigzag Conversion](./Strings/014%20Zigzag%20Conversion) | [Leetcode Question](https://leetcode.com/problems/zigzag-conversion/description/) |
+| 15 | [015 Reverse Words in a String](./Strings/015%20Reverse%20Words%20in%20a%20String) | [Leetcode Question](https://leetcode.com/problems/reverse-words-in-a-string/description/) |
+| 16 | [016 Guess the Word](./Strings/016%20Guess%20the%20Word) | [Leetcode Question](https://leetcode.com/problems/guess-the-word/description/) |
+
+## Bit Manipulation
+
+| Row | Question Name | Question Link |
+| --- | --- | --- |
+| 17 | [017 Single Number](./Bit%20Manipulation/017%20Single%20Number) | [Leetcode Question](https://leetcode.com/problems/single-number/description/) |
