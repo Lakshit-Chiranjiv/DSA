@@ -35,3 +35,4 @@ A collection of highly curated DSA questions.
 | 17 | [017 Single Number](./Bit%20Manipulation/017%20Single%20Number) | [Leetcode Question](https://leetcode.com/problems/single-number/description/) |
 | 18 | [018 Number of 1 Bits](./Bit%20Manipulation/018%20Number%20of%201%20Bits) | [Leetcode Question](https://leetcode.com/problems/number-of-1-bits/description/) |
 | 19 | [019 Counting Bits](./Bit%20Manipulation/019%20Counting%20Bits) | [Leetcode Question](https://leetcode.com/problems/counting-bits/description/) |
+| 20 | [020 Reverse Bits](./Bit%20Manipulation/020%20Reverse%20Bits) | [Leetcode Question](https://leetcode.com/problems/reverse-bits/description/) |
